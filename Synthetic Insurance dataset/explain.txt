@@ -1,0 +1,240 @@
+Age
+
+English: The age of the policyholder.
+
+Chinese: 保单持有人的年龄。
+
+Example: A policyholder is 30 years old.
+
+
+Is_Senior
+
+English: Indicates if the policyholder is a senior citizen (typically 65+).
+
+Chinese: 表示保单持有人是否是老年人（通常为65岁以上）。
+
+Example: A policyholder is 70 years old, so Is_Senior = Yes.
+
+
+Marital_Status
+
+English: The marital status of the policyholder (e.g., single, married, divorced).
+
+Chinese: 保单持有人的婚姻状况（例如，单身，已婚，离婚）。
+
+Example: A policyholder is married, so Marital_Status = Married.
+
+
+Married_Premium_Discount
+
+English: Discount applied to premiums for married policyholders.
+
+Chinese: 已婚保单持有人的保费折扣。
+
+Example: A married policyholder receives a 10% discount on their premium.
+
+
+Prior_Insurance
+
+English: Indicates if the policyholder had prior insurance coverage.
+
+Chinese: 表示保单持有人是否有以前的保险覆盖。
+
+Example: A policyholder had car insurance before, so Prior_Insurance = Yes.
+
+
+Prior_Insurance_Premium_Adjustment
+
+English: Adjustment to the premium based on prior insurance coverage.
+
+Chinese: 基于以前的保险覆盖对保费的调整。
+
+Example: A policyholder with prior insurance receives a $50 premium adjustment.
+
+
+Claims_Frequency
+
+English: The number of claims filed by the policyholder within a specific period.
+
+Chinese: 保单持有人在特定时间段内提出的索赔次数。
+
+Example: A policyholder filed 3 claims in the last year.
+
+
+Claims_Severity
+
+English: The severity or cost of claims filed by the policyholder.
+
+Chinese: 保单持有人提出的索赔的严重程度或成本。
+
+Example: A policyholder's claim cost $5,000, so Claims_Severity = High.
+
+
+Claims_Adjustment
+
+English: Adjustments made to the claims amount.
+
+Chinese: 对索赔金额的调整。
+
+Example: A claim amount is adjusted by $200 due to assessment errors.
+
+
+Policy_Type
+
+English: The type of insurance policy (e.g., auto, home, health).
+
+Chinese: 保险政策的类型（例如，汽车，家庭，健康）。
+
+Example: A policyholder has an auto insurance policy.
+
+
+Policy_Adjustment
+
+English: Adjustments made to the policy terms or coverage.
+
+Chinese: 对政策条款或覆盖范围的调整。
+
+Example: A policy's coverage limit is increased by $10,000.
+
+
+Premium_Amount
+
+English: The amount of premium the policyholder needs to pay.
+
+Chinese: 保单持有人需要支付的保费金额。
+
+Example: A policyholder's premium amount is $1,200 per year.
+
+
+Safe_Driver_Discount
+
+English: Discount applied to premiums for safe driving behavior.
+
+Chinese: 因安全驾驶行为而应用于保费的折扣。
+
+Example: A policyholder with a clean driving record receives a 15% discount.
+
+
+Multi_Policy_Discount
+
+English: Discount applied for holding multiple policies with the same insurer.
+
+Chinese: 因拥有同一保险公司多个保单而应用的折扣。
+
+Example: A policyholder with both home and auto insurance receives a 10% discount.
+
+
+Bundling_Discount
+
+English: Discount applied for bundling different types of insurance policies.
+
+Chinese: 捆绑不同类型保险政策的折扣。
+
+Example: A policyholder bundles auto, home, and life insurance for a 20% discount.
+
+
+Total_Discounts
+
+English: The total amount of discounts applied to the premium.
+
+Chinese: 应用于保费的总折扣金额。
+
+Example: A policyholder receives a total of $300 in discounts.
+
+
+Source_of_Lead
+
+English: The source from which the lead or potential customer originated.
+
+Chinese: 潜在客户来源。
+
+Example: A lead comes from an online ad.
+
+
+Time_Since_First_Contact
+
+English: The amount of time elapsed since the first contact with the lead.
+
+Chinese: 自与潜在客户首次联系以来经过的时间。
+
+Example: 30 days since the first contact with a lead.
+
+
+Conversion_Status
+
+English: Indicates whether the lead was converted into a policyholder.
+
+Chinese: 表示潜在客户是否转化为保单持有人。
+
+Example: A lead has been converted to a policyholder, so Conversion_Status = Converted.
+
+
+Website_Visits
+
+English: The number of times the lead visited the company's website.
+
+Chinese: 潜在客户访问公司网站的次数。
+
+Example: A lead visited the website 5 times.
+
+
+Inquiries
+
+English: The number of inquiries made by the lead about insurance products.
+
+Chinese: 潜在客户对保险产品的咨询次数。
+
+Example: A lead made 3 inquiries about auto insurance.
+
+
+Quotes_Requested
+
+English: The number of insurance quotes requested by the lead.
+
+Chinese: 潜在客户请求的保险报价数量。
+
+Example: A lead requested 2 quotes for home insurance.
+
+
+Time_to_Conversion
+
+English: The amount of time it took for the lead to be converted into a policyholder.
+
+Chinese: 将潜在客户转化为保单持有人的时间。
+
+Example: It took 45 days for a lead to convert to a policyholder.
+
+
+Credit_Score
+
+English: The credit score of the policyholder, which can affect insurance premiums.
+
+Chinese: 保单持有人的信用评分，可以影响保险费。
+
+Example: A policyholder has a credit score of 750.
+
+
+Premium_Adjustment_Credit
+
+English: Adjustments made to the premium based on the policyholder's credit score.
+
+Chinese: 基于保单持有人的信用评分对保费进行的调整。
+
+Example: A policyholder with a high credit score receives a $100 premium adjustment.
+
+
+Region
+
+English: The geographical region where the policyholder resides.
+
+Chinese: 保单持有人居住的地理区域。
+
+Example: A policyholder resides in the West region.
+
+
+Premium_Adjustment_Region
+
+English: Adjustments made to the premium based on the policyholder's region.
+
+Chinese: 根据保单持有人的区域对保费进行调整。
+
